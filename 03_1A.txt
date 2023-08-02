@@ -1,0 +1,134 @@
+Script started on 2023-07-31 19:33:17+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="117" LINES="59"]
+[0m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m[38;5;240m╭─[0m[38;5;240m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Programs/Assignments/[1m[38;5;254m[44m[38;5;255mOS[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m                                                                       [0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m 07:33:17 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m
+[38;5;240m╰─[0m[38;5;240m[49m[39m[0m[49m[39m [0m[49m[39m[?2004h[?25l8[0m[38;5;254m[49m[39m[27m[24m[J[0m[27m[24m[J[0m[49m[39m
+[A[38;5;240m╭─[0m[38;5;240m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Programs/Assignments/[1m[38;5;254m[44m[38;5;255mOS[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m                                                                       [0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[37m[0m[37m[40m[47m[30m 07:33:17 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m
+[38;5;240m╰─[0m[38;5;240m[49m[39m[0m[49m[39m [0m[49m[39m[K[?1h=[?12l[?25h[?2004h[1m[31mb[0m[39m[90mash[39m[1m[31mb[1m[31ma[0m[39m[1m[31mb[1m[31ma[1m[31ms[0m[39m[0m[34mb[0m[34ma[0m[34ms[34mh[39m[?1l>[?25l[?2004l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [34mbash[39m[K[?12l[?25h
+^C]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ who
+siddharth tty7         2023-07-18 19:32 (:0)
+siddharth pts/0        2023-07-31 19:22 (:0)
+siddharth pts/1        2023-07-31 19:32 (:0)
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ whoami
+siddharth
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ pwd
+/home/siddharth/Programs/Assignments/OS
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ date
+Monday 31 July 2023 07:33:31 PM IST
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls
+A1_3_1A.txt  A1_3_Group_3_session.log
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ mkdir folder
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls
+A1_3_1A.txt  A1_3_Group_3_session.log  [0m[01;34mfolder[0m
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ cd folder
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS/folder[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS/folder[00m$ ls[K[Kcd ..
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ rmdir folder/
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls
+A1_3_1A.txt  A1_3_Group_3_session.log
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ vim 3[K[K 3_testfile
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;59r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[58;1H"3_testfile" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[93m1   [m
+[94m~                                                                                                                    [3;1H~                                                                                                                    [4;1H~                                                                                                                    [5;1H~                                                                                                                    [6;1H~                                                                                                                    [7;1H~                                                                                                                    [8;1H~                                                                                                                    [9;1H~                                                                                                                    [10;1H~                                                                                                                    [11;1H~                                                                                                                    [12;1H~                                                                                                                    [13;1H~                                                                                                                    [14;1H~                                                                                                                    [15;1H~                                                                                                                    [16;1H~                                                                                                                    [17;1H~                                                                                                                    [18;1H~                                                                                                                    [19;1H~                                                                                                                    [20;1H~                                                                                                                    [21;1H~                                                                                                                    [22;1H~                                                                                                                    [23;1H~                                                                                                                    [24;1H~                                                                                                                    [25;1H~                                                                                                                    [26;1H~                                                                                                                    [27;1H~                                                                                                                    [28;1H~                                                                                                                    [29;1H~                                                                                                                    [30;1H~                                                                                                                    [31;1H~                                                                                                                    [32;1H~                                                                                                                    [33;1H~                                                                                                                    [34;1H~                                                                                                                    [35;1H~                                                                                                                    [36;1H~                                                                                                                    [37;1H~                                                                                                                    [38;1H~                                                                                                                    [39;1H~                                                                                                                    [40;1H~                                                                                                                    [41;1H~                                                                                                                    [42;1H~                                                                                                                    [43;1H~                                                                                                                    [44;1H~                                                                                                                    [45;1H~                                                                                                                    [46;1H~                                                                                                                    [47;1H~                                                                                                                    [48;1H~                                                                                                                    [49;1H~                                                                                                                    [50;1H~                                                                                                                    [51;1H~                                                                                                                    [52;1H~                                                                                                                    [53;1H~                                                                                                                    [54;1H~                                                                                                                    [55;1H~                                                                                                                    [56;1H~                                                                                                                    [57;1H~                                                                                                                    [m[59;100H0,0-1[9CAll[1;5H[?25h[?25l[59;90Hi[1;5H[59;90H [1;5H[59;1H[1m-- INSERT --[m[59;100H[K[59;100H0,1[11CAll[1;5H[?25h[?25lx[59;100H1,2[1;6H[?25h[?25ly[59;102H3[1;7H[?25h[?25lz[59;102H4[1;8H[?25h[?2004h[?25l[93m  1
+2   [m[2;5H[K[59;100H2,1[2;5H[?25h[?25lw[59;102H2[2;6H[?25h[?25lx[59;102H3[2;7H[?25h[?25lt[59;102H4[2;8H[?25h[?25l[2;7H[K[59;102H3[2;7H[?25h[?25ly[59;102H4[2;8H[?25h[?2004h[?25l[1;3H[93m2
+  1
+3   [m[3;5H[K[59;100H3,1[3;5H[?25h[?25la[59;102H2[3;6H[?25h[?25lb[59;102H3[3;7H[?25h[?25lc[59;102H4[3;8H[?25h[?2004h[?25l[1;3H[93m3
+  2
+  1
+4   [m[4;5H[K[59;100H4,1[4;5H[?25h[?25ll[59;102H2[4;6H[?25h[?25ls[59;102H3[4;7H[?25h[?25la[59;102H4[4;8H[?25h[?2004h[?25l[1;3H[93m4
+  3
+  2
+  1
+5   [m[5;5H[K[59;100H5,1[5;5H[?25h[?25lq[59;102H2[5;6H[?25h[?25lw[59;102H3[5;7H[?25h[?25le[59;102H4[5;8H[?25h[?2004h[?25l[1;3H[93m5
+  4
+  3
+  2
+  1
+6   [m[6;5H[K[59;100H6,1[6;5H[?25h[?25lr[59;102H2[6;6H[?25h[?25lt[59;102H3[6;7H[?25h[?25ly[59;102H4[6;8H[?25h[59;1H[K[6;7H[?25l[59;90H^[[6;7H[59;90H  [6;8H[58;1H[K[59;100H6,3[11CAll[6;7H[?25h[?25l[59;90H:[6;7H[59;90H[K[58;1H:[?2004h[?25hwq[?25l[?2004l"3_testfile" [New] 6L, 24C written
+[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ cat 3_testfile 
+xyz
+wxy
+abc
+lsa
+qwe
+rty
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ cp 3_testfile file1
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ cat file1
+xyz
+wxy
+abc
+lsa
+qwe
+rty
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ mv file1 file123
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls
+3_testfile  A1_3_1A.txt  A1_3_Group_3_session.log  file123
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ rm file123
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls
+3_testfile  A1_3_1A.txt  A1_3_Group_3_session.log
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ stat 3_testfile 
+  File: 3_testfile
+  Size: 24        	Blocks: 8          IO Block: 4096   regular file
+Device: 10302h/66306d	Inode: 4723703     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/siddharth)   Gid: ( 1000/siddharth)
+Access: 2023-07-31 19:34:45.340410326 +0530
+Modify: 2023-07-31 19:34:42.448363803 +0530
+Change: 2023-07-31 19:34:42.448363803 +0530
+ Birth: -
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ stty -a
+speed 38400 baud; rows 59; columns 117; line = 0;
+intr = ^C; quit = ^\; erase = ^?; kill = ^U; eof = ^D; eol = <undef>; eol2 = <undef>; swtch = <undef>; start = ^Q;
+stop = ^S; susp = ^Z; rprnt = ^R; werase = ^W; lnext = ^V; discard = ^O; min = 1; time = 0;
+-parenb -parodd -cmspar cs8 -hupcl -cstopb cread -clocal -crtscts
+-ignbrk -brkint -ignpar -parmrk -inpck -istrip -inlcr -igncr icrnl ixon ixoff -iuclc -ixany -imaxbel iutf8
+opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
+isig icanon iexten echo echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ uname[K[K[K[K[Ktty
+/dev/pts/2
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ unsame[K[K[K[Kame
+Linux
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ umask
+0002
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ find
+.
+./3_testfile
+./A1_3_1A.txt
+./A1_3_Group_3_session.log
+./.A1_3_1A.txt.swp
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ sort 3_testfile 
+abc
+lsa
+qwe
+rty
+wxy
+xyz
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ps
+    PID TTY          TIME CMD
+ 967568 pts/2    00:00:00 zsh
+ 967573 pts/2    00:00:00 zsh
+ 967799 pts/2    00:00:00 zsh
+ 967800 pts/2    00:00:00 zsh
+ 967802 pts/2    00:00:00 gitstatusd-linu
+ 967821 pts/2    00:00:00 bash
+ 969605 pts/2    00:00:00 ps
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ chmod 777 3_testfile 
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ c[Kls [K
+[0m[01;32m3_testfile[0m  A1_3_1A.txt  A1_3_Group_3_session.log
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls -l
+total 24
+-rwxrwxrwx 1 siddharth siddharth    24 Jul 31 19:34 [0m[01;32m3_testfile[0m
+-rw-rw-r-- 1 siddharth siddharth  2153 Jul 31 19:24 A1_3_1A.txt
+-rw-rw-r-- 1 siddharth siddharth 16384 Jul 31 19:35 A1_3_Group_3_session.log
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ cd[Khmod o-w 3_testfile 
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ ls -l
+total 24
+-rwxrwxr-x 1 siddharth siddharth    24 Jul 31 19:34 [0m[01;32m3_testfile[0m
+-rw-rw-r-- 1 siddharth siddharth  2153 Jul 31 19:24 A1_3_1A.txt
+-rw-rw-r-- 1 siddharth siddharth 16384 Jul 31 19:35 A1_3_Group_3_session.log
+]0;siddharth@HP-Pavillion: ~/Programs/Assignments/OS[01;32msiddharth@HP-Pavillion[00m:[01;34m~/Programs/Assignments/OS[00m$ exit
+exit
+[1m[7m%[27m[1m[0m                                                                                                                     [0m[27m[24m[J[0m[49m[39m
+
+[A[38;5;240m╭─[0m[38;5;240m[44m[38;5;254m [1m[38;5;254m[44m[38;5;255m~[0m[38;5;255m[44m[44m[38;5;254m/Programs/Assignments/[1m[38;5;254m[44m[38;5;255mOS[0m[38;5;255m[44m[44m[38;5;254m[0m[38;5;254m[44m[44m[38;5;254m [0m[38;5;254m[44m[49m[34m[0m[34m[49m[39m                                                               [0m[40m[32m [0m[32m[40m[40m[32m✔[0m[32m[40m[40m[32m [0m[32m[40m[40m[32m[33m[0m[33m[40m[43m[30m 2m 43s[0m[30m[43m[43m[30m[0m[30m[43m[43m[30m [0m[30m[43m[43m[30m[37m[0m[37m[43m[47m[30m 07:36:03 PM[0m[30m[47m[47m[30m[0m[30m[47m[47m[30m [0m[30m[47m[49m[39m
+[38;5;240m╰─[0m[38;5;240m[49m[39m[0m[49m[39m [0m[49m[39m[K[?1h=[?2004h[1m[31me[0m[39m[90mxit[39m[0m[34me[34mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[34me[0m[34mx[0m[34mi[34mt[39m[?1l>[?25l[?2004l[A[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [34mexit[39m[K[?12l[?25h
+
+Script done on 2023-07-31 19:36:05+05:30 [COMMAND_EXIT_CODE="0"]
