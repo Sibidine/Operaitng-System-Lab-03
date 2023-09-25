@@ -270,7 +270,11 @@ int shmdt(const void *shmaddr);
 ## Sources:
 
 1: https://www.makeuseof.com/environment-variables-in-linux/
+
 2: https://opensource.com/sites/default/files/gated-content/inter-process_communication_in_linux.pdf
+
 3: https://linuxhandbook.com/tmp-directory/
+
 4: https://jameshfisher.com/2017/02/24/what-is-mode_t/ 
+
 5: https://www.man7.org/linux/man-pages/man2/mmap.2.html
