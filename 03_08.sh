@@ -120,10 +120,21 @@
 # 1 2 3
 # 1 2 3 4
 #
-n=$1
-for ((i = 1; i <= n; i++)); do
-  for ((j = 1; j <= i; j++)); do
-    echo -n "$j "
-  done
-  echo
-done
+# n=$1
+# for ((i = 1; i <= n; i++)); do
+#  for ((j = 1; j <= i; j++)); do
+#    echo -n "$j "
+#  done
+#  echo
+# done
+
+# execution: 
+# ./03_08.sh {number of lines}
+#
+# output:
+# ./03_08.sh 5
+# 1 
+# 1 2 
+# 1 2 3 
+# 1 2 3 4 
+# 1 2 3 4 5
